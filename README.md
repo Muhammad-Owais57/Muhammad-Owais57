@@ -1,6 +1,6 @@
 # 💫 About Me:
 I am Muhammad Owais, a passionate and dedicated Full-Stack .NET developer committed to building secure, scalable, and high-performance web applications. With strong expertise in C#, ASP.NET Core, Web API, SQL Server, and modern development practices, I focus on delivering clean, maintainable, and efficient software solutions.<br><br>My development approach is based on Clean Architecture principles, performance optimization, and writing structured, reliable code that supports long-term growth. I have hands-on experience developing backend systems, designing RESTful APIs, integrating databases, and building responsive user interfaces.<br><br>I believe in continuous learning, professionalism, and creating technology that solves real-world problems. My goal is to contribute meaningful solutions, grow consistently as a developer, and deliver work that reflects quality, responsibility, and technical excellence.
-
+ 
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/all_about_owais) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/muhammad-owais-dik/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:howais57@gmail.com) 
