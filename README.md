@@ -1,5 +1,19 @@
 # 💫 About Me:
-I am Muhammad Owais, a passionate and dedicated Full-Stack .NET developer committed to building secure, scalable, and high-performance web applications. With strong expertise in C#, ASP.NET Core, Web API, SQL Server, and modern development practices, I focus on delivering clean, maintainable, and efficient software solutions.<br><br>My development approach is based on Clean Architecture principles, performance optimization, and writing structured, reliable code that supports long-term growth. I have hands-on experience developing backend systems, designing RESTful APIs, integrating databases, and building responsive user interfaces.<br><br>I believe in continuous learning, professionalism, and creating technology that solves real-world problems. My goal is to contribute meaningful solutions, grow consistently as a developer, and deliver work that reflects quality, responsibility, and technical excellence.
+I am a **Full-Stack .NET Developer** with hands-on industry experience in designing, developing, and maintaining scalable web applications using **C#, ASP.NET Core, ASP.NET MVC, Web API, Entity Framework Core, and SQL Server**.
+
+Currently working as a **Junior Software Developer at Friendsware Solutions**, I contribute to real-world software projects, focusing on backend development, database management, API integration, authentication, authorization, and role-based access control (RBAC).
+
+My practical experience includes developing a **Hospital Management System (HMS)** using ASP.NET Core MVC, Entity Framework Core, SQL Server, and ASP.NET Core Identity. I have worked on modules covering patient management, appointments, admissions, wards and beds, pharmacy, laboratory, billing, staff management, and permissions. I also work on debugging, testing, improving existing functionality, and maintaining reliable application workflows.
+
+My technical strengths include building RESTful APIs, implementing secure authentication and authorization, optimizing database operations, applying Clean Architecture principles, and writing clean, maintainable code. I am also familiar with real-time application updates using SignalR and modern web development practices.
+
+I hold a **Bachelor of Science in Computer Science (BSCS)** and have completed the **10Pearls Shine Internship Program**, which strengthened my practical software development skills.
+
+I am passionate about solving real-world problems through technology, continuously improving my engineering skills, and contributing to software products that are secure, efficient, scalable, and maintainable.
+
+**Core Technologies:** C# | ASP.NET Core | ASP.NET MVC | Web API | Entity Framework Core | SQL Server | RESTful APIs | ASP.NET Core Identity | RBAC | SignalR | Blazor | JavaScript | Git & GitHub
+
+I believe in continuous learning, taking ownership of my work, and delivering software solutions that create meaningful business value.
  
 
 ## 🌐 Socials:
